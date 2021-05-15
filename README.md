@@ -1,3 +1,3 @@
-# https://eleriamarkangel.github.io
+# eleriamarkangel.github.io
 
 my first commit!
