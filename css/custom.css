@@ -29,3 +29,19 @@
     border-style: none;
 }
 
+.shadow{
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.divider-left{
+    border-left: 1px solid gray;
+}
+
+
+.divider-right{
+    border-right: 1px solid gray;
+}
+
+h4{
+    padding-bottom: 20px;
+}
