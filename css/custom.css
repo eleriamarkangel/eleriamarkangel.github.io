@@ -3,3 +3,32 @@
     height: 50px;
     width: 50px;
 }
+
+
+.vertical-line{
+    background-color: white;
+    border-right: 3px solid #41aac4;
+    height: 200px;
+    padding-left: 9px;
+    margin-top: 10px;
+}
+
+.circle{
+    border: 3px solid #41aac4;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+.dark{
+    background-color: #343a40;
+    color:  #F8F9FA;
+}
+
+.no-border{
+    border-style: none;
+}
+
+nav{
+    border-bottom: 1px solid #dddddd;
+}
