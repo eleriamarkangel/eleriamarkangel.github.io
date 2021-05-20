@@ -1,29 +1,46 @@
+body{
+    background-color: #121212;
+    color: white;
+}
+
+.violet{
+    background-color: #bb86fc;
+}
+.darkblue{
+    background-color: #3700b3;
+}
+.lightgreensc{
+    background-color: #03dac6;
+}
+
 .rounded-pictures{
     border-radius: 50px;
     height: 50px;
     width: 50px;
 }
 
+.card{
+    background-color: #303030;
+}
+
+
 
 .vertical-line{
-    background-color: white;
-    border-right: 3px solid #41aac4;
+    background-color: #303030;
+    border-right: 3px solid #03dac6;
     height: 200px;
     padding-left: 9px;
     margin-top: 10px;
 }
 
 .circle{
-    border: 3px solid #41aac4;
+    border: 3px solid #03dac6;
     width: 20px;
     height: 20px;
     border-radius: 20px;
 }
 
-.dark{
-    background-color: #343a40;
-    color:  #F8F9FA;
-}
+
 
 .no-border{
     border-style: none;
@@ -45,3 +62,8 @@
 h4{
     padding-bottom: 20px;
 }
+
+.heading-main{
+    font-family: 'Open Sans', sans-serif;
+}
+
