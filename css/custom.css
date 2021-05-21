@@ -1,8 +1,7 @@
 body{
-    color: white;
     background-color: #121212;
-    }
-
+    color: white;
+}
 
 .violet{
     background-color: #bb86fc;
@@ -29,7 +28,7 @@ body{
 .vertical-line{
     background-color: #303030;
     border-right: 3px solid #03dac6;
-    height: 200px;
+    height: 300px;
     padding-left: 9px;
     margin-top: 10px;
 }
@@ -61,14 +60,18 @@ body{
 }
 
 h4{
-    padding-bottom: 20px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    
 }
 
-.heading-main{
+p, .heading-main{
     font-family: 'Open Sans', sans-serif;
 }
 
-p{
-    font-family: 'Open Sans', sans-serif;
+.h{
+font-family: 'PressStart2PRegular';
+font-weight: normal;
+font-style: normal;
 }
 
