@@ -1,6 +1,7 @@
 body{
     color: white;
-    background-color: #121212;
+    background: rgb(32,69,100);
+    background: linear-gradient(0deg, rgba(32,69,100,1) 0%, rgba(18,18,18,1) 100%);
 }
 
 .violet{
@@ -63,7 +64,6 @@ h4{
     padding-bottom: 20px;
 }
 
-p .heading-main{
+p, .heading-main{
     font-family: 'Open Sans', sans-serif;
 }
-
