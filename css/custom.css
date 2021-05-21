@@ -1,6 +1,8 @@
 body{
     color: white;
+}
 
+div{
 background: rgb(18,18,18);
 background: -moz-linear-gradient(0deg, rgba(18,18,18,1) 0%, rgba(66,139,202,0.7976284524668817) 100%);
 background: -webkit-linear-gradient(0deg, rgba(18,18,18,1) 0%, rgba(66,139,202,0.7976284524668817) 100%);
