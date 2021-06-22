@@ -1,6 +1,10 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
-    background-color: #121212;
-    color: white;
+    background-color: #fff;
+    color: black;
 }
 
 .violet{
@@ -20,22 +24,20 @@ body{
 }
 
 .card{
-    background-color: #303030;
+    background-color: #fff;
 }
 
 
 
 .vertical-line{
-    background-color: #303030;
-    border-right: 3px solid #03dac6;
-    height: 600px;
+    border-right: 3px solid #6599FF;
+    height: 500px;
     padding-left: 9px;
     margin-top: 10px;
-    
 }
 
 .circle{
-    border: 3px solid #03dac6;
+    border: 3px solid #6599FF;
     width: 20px;
     height: 20px;
     border-radius: 20px;
@@ -45,6 +47,10 @@ body{
 
 .no-border{
     border-style: none;
+}
+
+.yes-border{
+    border: 1px solid black;
 }
 
 .shadow{
@@ -61,18 +67,50 @@ body{
 }
 
 h4{
-    padding-bottom: 4px;
-    padding-top: 4px;
-    
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
-p, a, .heading-main{
-    font-family: 'Open Sans', sans-serif;
-}
 
 .h{
 font-family: 'PressStart2PRegular';
 font-weight: normal;
 font-style: normal;
 }
+
+
+
+
+.indent{
+    text-indent: 50px;
+}
+
+.code-block{
+    border-top: 4px solid #ff9900 ;
+    border-left: 4px solid #ffde00 ;
+    border-bottom: 4px solid #097054;
+    border-right: 4px solid #6599FF ;
+    margin: 4px;
+}
+
+code{
+    color: #6599FF;
+}
+
+.code-red{
+    color: #c70039;
+}
+
+.code-darkred{
+    color: #900c3f;
+}
+
+.code-purple{
+    color: #581845;
+}
+
+.code-green{
+    color: #097054;
+}
+
 
