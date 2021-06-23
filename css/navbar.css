@@ -53,7 +53,7 @@
   height:0;   /* Height of the footer */
   width: 0;
   left: 90%;
-  top: 90%;
+  top: 95%;
   bottom: 0;
   z-index: 2;
 }
