@@ -50,9 +50,8 @@
 #static-nav-bot{
   position:fixed;
   border: 1px solid green;
-  height:50px;   /* Height of the footer */
-  width: 100px;
-
+  height:0;
+  width:0;
   bottom: 0;
   z-index: 2;
   top: 95%;
