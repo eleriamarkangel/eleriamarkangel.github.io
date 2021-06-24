@@ -1,3 +1,3 @@
 # eleriamarkangel.github.io
 
-my first commit!
+Check out my portfolio! Sorry I'm new to github
