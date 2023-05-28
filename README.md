@@ -1,3 +1,3 @@
 # eleriamarkangel.github.io
 
-Check out my portfolio! Sorry I'm new to github
+Check out my portfolio! Appreciate your time visiting my website :)
